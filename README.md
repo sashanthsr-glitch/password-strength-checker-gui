@@ -32,7 +32,8 @@ Based on these conditions, it classifies password strength.
 
 ## 🖼️ Output Screenshot
 
-![Output](output.png)
+![Strong](strong.png)
+![Weak](weak.png)
 
 ---
 
